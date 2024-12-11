@@ -1,3 +1,9 @@
+# 说明
+此仓库基于LEDE固件编译，为极路由B70添加FM350-GL的支持，同时添加了openclash。
+默认ip为: `192.168.8.1`
+密码为：`password`
+
+
 # 欢迎来到 Lean 的 LEDE 源码仓库
 
 为国产龙芯 LOONGSON SoC loongarch64 / 飞腾 Phytium 腾锐 D2000 系列架构添加支持
